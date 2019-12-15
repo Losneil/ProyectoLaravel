@@ -1,2 +1,2 @@
 # LaravelRS
-Red Social con el framework Laravel
+Red Social con el Framework Laravel
